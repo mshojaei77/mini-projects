@@ -1,4 +1,3 @@
-Here is a possible README description for your Coin Flipper app:
 
 # Coin Flipper
 
