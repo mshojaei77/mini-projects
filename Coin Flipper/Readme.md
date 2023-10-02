@@ -34,7 +34,8 @@ Or you can double-click on the coin_flipper.py file in your file explorer.
 
 You will see a window like this:
 
-![Coin Flipper window]
+![image](https://github.com/mshojaei77/mini-projects/assets/76538971/d0a2dcbe-c40e-4292-8e48-6ad8305c9614)
+
 
 To flip a coin, simply click on the "Flip Coin" button. You will hear a sound effect and see the result on the label.
 
